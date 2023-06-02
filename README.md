@@ -3,4 +3,4 @@ Non-invasive cancer diagnosis based on liquid biopsies depending on the stage of
 
 Gdańsk University of Technology 
 Research project
-KIBI 2023
+3@KAMS'2023
