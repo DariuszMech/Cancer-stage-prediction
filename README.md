@@ -15,9 +15,9 @@ Classifiers:
 - LightGBM
   
 Cndividual subsets:
-a = patients + markers
-b = patients + markers_scaled
-c = patients + markers_scaled_pca
-d = patients + markers_scaled_pca_scaled
-e = patients + markers_pca
-f = patients + markers_pca_scaled
+- a = patients + markers
+- b = patients + markers_scaled
+- c = patients + markers_scaled_pca
+- d = patients + markers_scaled_pca_scaled
+- e = patients + markers_pca
+- f = patients + markers_pca_scaled
